@@ -14,6 +14,6 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate-prod"
+    bucket = "bigqueryproject-353907-tfstate-prod"
   }
 }
